@@ -1,7 +1,8 @@
 
 
-<h1 align="center" style="color:#007acc;">Hi there 👋 thank you for visting!</h1>
+<h1 align="center" style="color:#007acc;">Hey, there 👋 thank you for visting!</h1>
 
+‎I got the idea! Call Me:  J got Da idea; I love turning ideas into reality. I believe technology should make life easier, and I'm here to make that happen one line of code at a time! I'm currently working in my Flutter App project ...
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JgotDaidea&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
